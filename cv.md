@@ -9,7 +9,7 @@ Geek who loves computers and related stuff. Deep into CLI. Uses Linux as everyda
 
 ## Skills
 Programming languages | Frameworks | Misc
---------------------- | ---------- | ----
+
 HTML, CSS | _ | Git, GitHub, [GitLab](https://gitlab.com/shakhzodkudratov)
 JS (ES6+) | Vue.js | Windows, Linux, macOS
 _ | Nuxt.js | _
@@ -20,7 +20,7 @@ Dart | Flutter | _
 
 ## Code examples
 Name | Link | Description
----- | ---- | -----------
+
 Small poll | https://github.com/shakhzodkudratov/small_poll | First Vue.js project
 Todo MVC Clone | https://github.com/shakhzodkudratov/vue-todomvc | Wrote while explaining to intern
 URL shortener | https://github.com/shakhzodkudratov/bug.uz | Wrote while live streaming
